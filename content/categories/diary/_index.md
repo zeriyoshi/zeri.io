@@ -1,6 +1,6 @@
 ---
-title: Example Category
-description: A description of this category
+title: 日記
+description: 毎日書くやつ
 image:
 
 # Badge style
