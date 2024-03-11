@@ -1,4 +1,4 @@
-baseurl = "//zeri.io/"
+baseurl = "https://zeri.io/"
 languageCode = "ja-jp"
 paginate = 5
 title = "zeri.io"
